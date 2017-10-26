@@ -58,15 +58,38 @@ body {
   background: #EEE;
 }
 
+#resume-title {
+    text-align: center;
+}
+
 .resume-child {
   border: 1px solid #DEE0DE;
   margin: 1em;
   background: #FFF;
   color: #515251;
+  width: 250px;
 }
 
 .div-title {
   padding: 0.5em;
   font-size: 1.25em;
   background: #B4DBE5;
+  text-align:center;
+}
+
+#career-parent {
+    padding: 4em 0;
+    background: #EEE;
+}
+
+#career-title {
+    text-align:center;
+}
+
+.career-child {
+    border: 1px solid #DEE0DE;
+    margin: lem;
+    background: #FFF;
+    color: #515251;
+    width: 250px;
 }
